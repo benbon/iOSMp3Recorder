@@ -19,6 +19,7 @@ http://stackoverflow.com/questions/1022992/how-to-get-avaudioplayer-output-to-th
 
 
 IdaImprove:
+
 1、现在app都要支持arm64,换了一个libmp3lame.a库
 
 2、set Build Settings->Enable Bitcode = NO
