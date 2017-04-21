@@ -17,3 +17,7 @@ http://www.cocoachina.com/bbs/read.php?tid=82730&keyword=lame
 
 http://stackoverflow.com/questions/1022992/how-to-get-avaudioplayer-output-to-the-speaker
 
+
+IdaImprove:
+现在app都要支持arm64,换了一个libmp3lame.a库
+set Build Settings->Enable Bitcode = NO
